@@ -1,3 +1,3 @@
 # DB Interactive
-* a tool to execute sqlite command on terminal
-* for os: linux arm64.  you may change the targe os in Makefile
+* A tool to execute sqlite command on terminal
+* For os: linux arm64.  You may change the target os in Makefile
